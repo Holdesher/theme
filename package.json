@@ -1,0 +1,61 @@
+{
+    "name": "holdesher",
+    "publisher": "kah3vich",
+    "displayName": "Holdesher (Theme)",
+    "description": "Theme with bright colors for VS Code editor and terminal applications.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Holdesher/Holdesher"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "extensionPack": [
+		"kah3vich.import-at-top",
+        "kah3vich.nanosnippets",
+        "kah3vich.refactor"
+	],
+    "categories": [
+        "Extension Packs",
+        "Themes"
+    ],
+    "preview": false,
+	"galleryBanner": {
+		"color": "#ffffff",
+		"theme": "light"
+	},
+    "contributes": {
+        "themes": [
+            {
+                "label": "Holdesher Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/holdesher-color-theme.json"
+            }
+        ]
+    },
+    "icon": "assets/logo.png",
+	"license": "MIT",
+	"author": {
+		"name": "kah3vich",
+		"url": "https://github.com/kah3vich",
+		"email": "holdesher@ro.ru"
+	},
+	"bugs": {
+		"url": "https://github.com/Holdesher/Holdesher/issues",
+		"email": "holdesher@ro.ru"
+	},
+	"keywords": [
+        "kah3vich",
+		"holdesher",
+        "theme"
+	],
+	"homepage": "https://github.com/kah3vich/Nano-Snippets/readme.md",
+    "scripts": {
+        "start": "nodemon --exec vsce package",
+        "build": "rm -rf *.vsix & vsce package"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.20"
+    }
+}
