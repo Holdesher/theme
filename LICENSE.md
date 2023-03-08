@@ -2,9 +2,9 @@ Holdesher License
 
 Copyright (C) 2023-∞, Nik Bild (https://github.com/kah3vich) All rights reserved.
 
-This file is part of the "Five Server" project.
+This file is part of the "Holdesherr" project.
 
-DEFINITIONS a) "Licensor" is Nik Bild (https://github.com/kah3vich). b) "Software" is the software known as Five Server.
+DEFINITIONS a) "Licensor" is Nik Bild (https://github.com/kah3vich). b) "Software" is the software known as Holdesherr.
 
 RESTRICTIONS You are NOT permitted to: a) Edit, alter, modify, adapt, translate or otherwise change the whole or any part of the Software without the express permission of the Licensor. b) Decompile, disassemble or reverse engineer the Software or attempt to do any such things. c) Reproduce, copy, distribute, resell or otherwise use the whole or any part of the Software for any commercial or non-commercial purpose. d) Disable, modify or hide notifications sent by the Software.
 
