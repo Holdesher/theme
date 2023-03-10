@@ -40,3 +40,15 @@
 <br />
 
 <img src="https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/gif/line.gif" height="20" width="100%" alt="https://i.imgur.com/dBaSKWF.gif">
+
+<br />
+
+### RELEASE: v0.0.3 - March 12, 2023
+
+<br />
+
+>  ### 📦 FEAT: Color config theme & readme & svg for readme
+
+<br />
+
+<img src="https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/gif/line.gif" height="20" width="100%" alt="https://i.imgur.com/dBaSKWF.gif">
